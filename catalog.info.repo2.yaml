@@ -1,7 +1,7 @@
 apiVersion: coupa/v1
 kind: <Choose either Component, API or Resource>
 metadata:
-  description: <Free string, keep it short and informative.>
+  description: this is lalala
   labels:
     functionalTeam: Choose from functional areas defined on www.b.c
     jiraComponents: <Your Jira Component, choose the most representative option, case
